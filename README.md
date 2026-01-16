@@ -35,9 +35,9 @@ El sistema genera automáticamente:
 * **Alertas de Inventario:** Identificación visual de productos con stock por debajo del nivel de seguridad.
 
 ## 📁 Estructura del Repositorio
-* `auditoria_inventario.py`: Script principal bajo paradigma POO.
-* `data_ejemplo.xlsx`: Dataset utilizado para el análisis (Ingresos y Salidas).
-* `REPORTE_FINAL_BCP.xlsx`: Output generado con el stock conciliado y métricas.
+* `inventario_stock.py`: Script principal bajo paradigma POO.
+* `data_almacen.xlsx`: Dataset utilizado para el análisis (Ingresos y Salidas).
+* `REPORTE_FINAL.xlsx`: Output generado con el stock conciliado y métricas.
 
 ---
 **Desarrollado como proyecto de aplicación técnica para el Programa DesarrollaTech - BCP.**
