@@ -1,4 +1,4 @@
-# 📊 Sistema de Auditoría y Control de Inventarios (Python)
+# 📊 Control de Inventarios (Python)
 
 Este proyecto desarrolla una solución automatizada para la conciliación de stock y el análisis de eficiencia operativa de la **Red de Salud Tacna**. Utiliza Python para transformar registros administrativos complejos en indicadores clave de desempeño (KPIs).
 
