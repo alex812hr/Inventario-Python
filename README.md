@@ -32,7 +32,6 @@ Para asegurar la precisión del análisis, el sistema aplica las siguientes defi
 ## 📈 Visualizaciones
 El sistema genera automáticamente:
 * **Gráfico de Eficiencia:** Porcentaje de pedidos atendidos vs. pendientes.
-* **Alertas de Inventario:** Identificación visual de productos con stock por debajo del nivel de seguridad.
 
 ## 📁 Estructura del Repositorio
 * `inventario_stock.py`: Script principal bajo paradigma POO.
@@ -40,4 +39,4 @@ El sistema genera automáticamente:
 * `REPORTE_FINAL.xlsx`: Output generado con el stock conciliado y métricas.
 
 ---
-**Desarrollado como proyecto de aplicación técnica para el Programa DesarrollaTech - BCP.**
+
